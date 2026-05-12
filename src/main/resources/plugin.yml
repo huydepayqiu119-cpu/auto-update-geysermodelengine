@@ -1,0 +1,13 @@
+name: AutoUpdatePlugin
+version: ${version}
+main: com.example.autoupdate.AutoUpdatePlugin
+api-version: '1.20'
+author: huydepayqiu119
+commands:
+  autoupdate:
+    description: Check/update DisplayEntity release assets
+    usage: /autoupdate [check|update]
+    permission: autoupdate.check
+permissions:
+  autoupdate.check:
+    default: op

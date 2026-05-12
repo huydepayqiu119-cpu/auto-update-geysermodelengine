@@ -1,0 +1,17 @@
+# Cau hinh repository GitHub de update GeyserDisplayEntity
+github-owner: GeyserExtensionists
+github-repo: GeyserDisplayEntity
+
+# Neu true thi plugin se thong bao cho op khi co ban moi luc server khoi dong
+notify-on-startup: true
+
+# Neu true thi tu dong tai va de asset moi vao duong dan ben duoi
+auto-update-on-startup: true
+
+# Duong dan tinh tu thu muc plugins/
+target-jar-path: Geyser/extensions/DisplayEntity.jar
+target-mcpack-path: Geyser/packs/DisplayEntityPack.mcpack
+
+# Tim asset trong release theo duoi ten file
+required-jar-suffix: .jar
+required-mcpack-suffix: .mcpack
