@@ -1,1 +1,5 @@
 rootProject.name = 'auto-update-plugin'
+include 'core'
+include 'paper'
+include 'bungee'
+include 'velocity'

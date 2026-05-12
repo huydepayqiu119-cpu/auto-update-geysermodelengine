@@ -1,0 +1,5 @@
+name: AutoUpdatePlugin
+version: ${version}
+main: com.kaito.autoupdate.paper.PaperAutoUpdatePlugin
+api-version: '1.20'
+author: Kaito

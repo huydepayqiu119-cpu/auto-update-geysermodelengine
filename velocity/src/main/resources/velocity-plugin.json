@@ -1,0 +1,8 @@
+{
+  "id": "autoupdateplugin",
+  "name": "AutoUpdatePlugin",
+  "version": "${version}",
+  "description": "Auto update DisplayEntity jar and mcpack",
+  "authors": ["Kaito"],
+  "main": "com.kaito.autoupdate.velocity.VelocityAutoUpdatePlugin"
+}

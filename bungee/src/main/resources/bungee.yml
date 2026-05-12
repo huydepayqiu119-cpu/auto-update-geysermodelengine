@@ -1,0 +1,4 @@
+name: AutoUpdatePlugin
+version: ${version}
+main: com.kaito.autoupdate.bungee.BungeeAutoUpdatePlugin
+author: Kaito

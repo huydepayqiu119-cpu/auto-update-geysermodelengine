@@ -1,0 +1,12 @@
+{
+  "githubOwner": "GeyserExtensionists",
+  "githubRepo": "GeyserDisplayEntity",
+  "notifyOnStartup": true,
+  "autoUpdateOnStartup": true,
+  "autoUpdateIntervalMinutes": 60,
+  "targetJarPath": "Geyser/extensions/DisplayEntity.jar",
+  "targetMcpackPath": "Geyser/packs/DisplayEntityPack.mcpack",
+  "requiredJarSuffix": ".jar",
+  "requiredMcpackSuffix": ".mcpack",
+  "mcpackHeaderName": "§fDisplay Entity Pack (§aDistributor Discord Kaito-@_jaysonmalon)"
+}
